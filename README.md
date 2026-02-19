@@ -22,9 +22,17 @@
   - Manage resource allocation to ensure optimal utilization based on team members’ skills and expertise.
   - Monitor team performance and progress to ensure timely achievement of project milestones.
  
-<h2>Working Positon</h2>
+<h2>Working Positons</h2>
 
 - May 2025 – Present : Delivery Manager in VPBank
 - Feb 2024 – Apr 2025: Project Manager in HDBank
 - Aug 2019 – Feb 2024: Project Manager in TPBank
 - Jun 2015 – Jul 2019: Project Manager in DIGI-TEXX
+- Nov 2013 – May 2015: Project Teamleader in VPBank
+
+<h2>Soft Skills</h2>
+
+- Good at create plan and commit to operate based on schedule.
+- Understanding banking and financial product/ services.
+- Applying Agile or waterfall modelin develop application.
+- Strong in using management tools (Jira, Confluent, redmine)
