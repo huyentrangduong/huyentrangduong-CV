@@ -24,11 +24,11 @@
  
 <h2>Working Positons</h2>
 
-- May 2025 – Present : Delivery Manager in VPBank
-- Feb 2024 – Apr 2025: Project Manager in HDBank
-- Aug 2019 – Feb 2024: Project Manager in TPBank
-- Jun 2015 – Jul 2019: Project Manager in DIGI-TEXX
-- Nov 2013 – May 2015: Project Teamleader in VPBank
+- May 2025 – Present (10 months): Delivery Manager in VPBank
+- Feb 2024 – Apr 2025 (01 year): Project Manager in HDBank
+- Aug 2019 – Feb 2024 (5 years): Project Manager in TPBank
+- Jun 2015 – Jul 2019 (4.5 years): Project Manager in DIGI-TEXX
+- Nov 2013 – May 2015 (02 years): Project Teamleader in VPBank
 
 <h2>Soft Skills</h2>
 
