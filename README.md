@@ -3,7 +3,7 @@
 <h2>Personal Information</h2>
 <h3>HUYEN TRANG DUONG</h3>
 
-- Address: Duong Thi Muoi Street, District 12, Ho Chi Minh City, Viet Nam
+- Address: Espoo, Finland
 - Phone: 0468042259
 - E-mail: dtrang006@gmail.com
 
@@ -12,6 +12,8 @@
 - Agriculture and forestry university
 	- 2014 - 2018| master’s degree Specialized Economics
    	- 2009-2013| bachelor’s degree Specialized Economics
+   	  
+
 <h2>Experience Summary</h2>
     <h3>08 years experienced as Delivery Manager</h3>
 
@@ -22,10 +24,11 @@
   - Manage resource allocation to ensure optimal utilization based on team members’ skills and expertise.
   - Monitor team performance and progress to ensure timely achievement of project milestones.
  
-<h2>Working Positons</h2>
+<h2>Working Positions</h2>
 
-- Apr 2025 – Present (10 months): Delivery Manager in VPBank
-- Feb 2024 – Apr 2025 (01 year): Project Manager in HDBank
+- Aug 2026 - Jul 2030 (04 years): Information Technology Student at Metropolia University of Applied Sciences, Finland.
+- Apr 2025 – Jul 2026 (02 years): Delivery Manager in VPBank
+- Feb 2024 – Apr 2025 (01 year) : Project Manager in HDBank
 - Aug 2019 – Feb 2024 (05 years): Project Manager in TPBank
 - Jun 2015 – Jul 2019 (04 years): Project Manager in DIGI-TEXX
 - Nov 2013 – May 2015 (02 years): Project Teamleader in VPBank
