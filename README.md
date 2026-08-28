@@ -1,13 +1,13 @@
 <h1>Curriculum Vitae</h1>
 <img align="right" width="200" height="210" alt="image" src="https://github.com/user-attachments/assets/c0600f6d-5c8d-4d77-a1d9-f6de8151447a" />
-<h3>Personal Information</h3>
-<h4>HUYEN TRANG DUONG</h4>
+<h3>🔅 Personal Information</h3>
+    <h3>HUYEN TRANG DUONG</h3>
 
 - Address: Espoo, Finland
 - Phone: 0468042259
 - E-mail: dtrang006@gmail.com
 
-<h2>Education</h2>
+<h2>✍️ Education</h2>
 
 - Agriculture and forestry university
 	- 2014 - 2018| master’s degree Specialized Economics
@@ -16,7 +16,7 @@
     - 2026 - 2030| Bachelor of Engineering in Information Technology
    	  
 
-<h2>Experience Summary</h2>
+<h2>👉 Experience Summary</h2>
     <h3>09 years experienced as Delivery Manager</h3>
 
 - Coordinate with cross-functional divisions and business units to ensure technology-driven strategicinitiatives are fully implemented and aligned with business needs.
@@ -26,7 +26,7 @@
   - Manage resource allocation to ensure optimal utilization based on team members’ skills and expertise.
   - Monitor team performance and progress to ensure timely achievement of project milestones.
  
-<h2>Working Positions</h2>
+<h2>👉 Working Positions</h2>
 
 - Aug 2026 - Now (04 years): Information Technology Student in Finland.
 - Apr 2025 – Jul 2026 (02 years): Delivery Manager in VPBank
@@ -35,7 +35,7 @@
 - Jun 2015 – Jul 2019 (04 years): Project Manager in DIGI-TEXX
 - Nov 2013 – May 2015 (02 years): Project Teamleader in VPBank
 
-<h2>Soft Skills</h2>
+<h2>👉 Soft Skills</h2>
 
 - Good at create plan and commit to operate based on schedule.
 - Understanding banking and financial product/ services.
