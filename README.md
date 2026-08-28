@@ -1,7 +1,7 @@
 <h1>Curriculum Vitae</h1>
 <img width="127" height="139" alt="image" src="https://github.com/user-attachments/assets/c0600f6d-5c8d-4d77-a1d9-f6de8151447a" />
-<h2>Personal Information</h2>
-<h3>HUYEN TRANG DUONG</h3>
+<h3>Personal Information</h3>
+<h4>HUYEN TRANG DUONG</h4>
 
 - Address: Espoo, Finland
 - Phone: 0468042259
