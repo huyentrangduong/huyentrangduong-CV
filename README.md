@@ -1,5 +1,5 @@
 <h1>Curriculum Vitae</h1>
-<img width="127" height="139" alt="image" src="https://github.com/user-attachments/assets/c0600f6d-5c8d-4d77-a1d9-f6de8151447a" />
+<img align="right" width="200" height="210" alt="image" src="https://github.com/user-attachments/assets/c0600f6d-5c8d-4d77-a1d9-f6de8151447a" />
 <h3>Personal Information</h3>
 <h4>HUYEN TRANG DUONG</h4>
 
@@ -11,7 +11,9 @@
 
 - Agriculture and forestry university
 	- 2014 - 2018| master’s degree Specialized Economics
-   	- 2009-2013| bachelor’s degree Specialized Economics
+   	- 2009 - 2013| bachelor’s degree Specialized Economics
+- Metropolia University of Applied Sciences, Finland
+    - 2026 - 2030| Bachelor of Engineering in Information Technology
    	  
 
 <h2>Experience Summary</h2>
@@ -26,7 +28,7 @@
  
 <h2>Working Positions</h2>
 
-- Aug 2026 - Now (04 years): Information Technology Student at Metropolia University of Applied Sciences, Finland.
+- Aug 2026 - Now (04 years): Information Technology Student in Finland.
 - Apr 2025 – Jul 2026 (02 years): Delivery Manager in VPBank
 - Feb 2024 – Apr 2025 (01 year) : Project Manager in HDBank
 - Aug 2019 – Feb 2024 (05 years): Project Manager in TPBank
