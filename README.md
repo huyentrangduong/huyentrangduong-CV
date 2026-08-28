@@ -26,7 +26,7 @@
  
 <h2>Working Positions</h2>
 
-- Aug 2026 - Jul 2030 (04 years): Information Technology Student at Metropolia University of Applied Sciences, Finland.
+- Aug 2026 - Now (04 years): Information Technology Student at Metropolia University of Applied Sciences, Finland.
 - Apr 2025 – Jul 2026 (02 years): Delivery Manager in VPBank
 - Feb 2024 – Apr 2025 (01 year) : Project Manager in HDBank
 - Aug 2019 – Feb 2024 (05 years): Project Manager in TPBank
