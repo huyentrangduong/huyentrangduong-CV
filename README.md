@@ -4,7 +4,7 @@
 <h3>HUYEN TRANG DUONG</h3>
 
 - Address: Duong Thi Muoi Street, District 12, Ho Chi Minh City, Viet Nam
-- Phone: 0933959491
+- Phone: 0468042259
 - E-mail: dtrang006@gmail.com
 
 <h2>Education</h2>
