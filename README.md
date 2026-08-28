@@ -15,7 +15,7 @@
    	  
 
 <h2>Experience Summary</h2>
-    <h3>08 years experienced as Delivery Manager</h3>
+    <h3>09 years experienced as Delivery Manager</h3>
 
 - Coordinate with cross-functional divisions and business units to ensure technology-driven strategicinitiatives are fully implemented and aligned with business needs.
 - Track project including deadlines, deliverables, resources, and timelines for each milestone throughout the entire project lifecycle.
